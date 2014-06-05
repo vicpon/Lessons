@@ -1,0 +1,5 @@
+E:\Work\WujiTouch\Lessons\DI_IoC\Interface_Injection\bin\Debug\Interface_Injection.exe.config
+E:\Work\WujiTouch\Lessons\DI_IoC\Interface_Injection\bin\Debug\Interface_Injection.exe
+E:\Work\WujiTouch\Lessons\DI_IoC\Interface_Injection\bin\Debug\Interface_Injection.pdb
+E:\Work\WujiTouch\Lessons\DI_IoC\Interface_Injection\obj\Debug\Interface_Injection.exe
+E:\Work\WujiTouch\Lessons\DI_IoC\Interface_Injection\obj\Debug\Interface_Injection.pdb

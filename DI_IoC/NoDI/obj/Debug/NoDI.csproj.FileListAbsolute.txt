@@ -1,0 +1,7 @@
+E:\Work\WujiTouch\Lessons\DI_IoC\DI_IoC\NoDI\bin\Debug\NoDI.exe.config
+E:\Work\WujiTouch\Lessons\DI_IoC\NoDI\bin\Debug\NoDI.exe.config
+E:\Work\WujiTouch\Lessons\DI_IoC\NoDI\bin\Debug\NoDI.exe
+E:\Work\WujiTouch\Lessons\DI_IoC\NoDI\bin\Debug\NoDI.pdb
+E:\Work\WujiTouch\Lessons\DI_IoC\NoDI\obj\Debug\NoDI.csprojResolveAssemblyReference.cache
+E:\Work\WujiTouch\Lessons\DI_IoC\NoDI\obj\Debug\NoDI.exe
+E:\Work\WujiTouch\Lessons\DI_IoC\NoDI\obj\Debug\NoDI.pdb

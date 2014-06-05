@@ -1,0 +1,5 @@
+E:\Work\WujiTouch\Lessons\DI_IoC\Constructor_Property_Injection\bin\Debug\Constructor_Property_Injection.exe.config
+E:\Work\WujiTouch\Lessons\DI_IoC\Constructor_Property_Injection\bin\Debug\Constructor_Property_Injection.exe
+E:\Work\WujiTouch\Lessons\DI_IoC\Constructor_Property_Injection\bin\Debug\Constructor_Property_Injection.pdb
+E:\Work\WujiTouch\Lessons\DI_IoC\Constructor_Property_Injection\obj\Debug\Constructor_Property_Injection.exe
+E:\Work\WujiTouch\Lessons\DI_IoC\Constructor_Property_Injection\obj\Debug\Constructor_Property_Injection.pdb
